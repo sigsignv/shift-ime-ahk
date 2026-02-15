@@ -18,7 +18,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"EditorConfig.EditorConfig"
+				"EditorConfig.EditorConfig",
+				"mark-wiemer.vscode-autohotkey-plus-plus"
 			]
 		}
 	},
